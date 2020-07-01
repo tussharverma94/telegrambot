@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4eae7c1d-0759-4d52-836a-98dd4011ed2b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bDA0I2k1VPnGWTAMTxiLM54cO7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.client">
+    <configuration name="bor_server" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="telegrambot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bor_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bot" type="PythonConfigurationType" factoryName="Python">
+      <module name="telegrambot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="call_script" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="telegrambot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/call_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="client" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="telegrambot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dir" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="telegrambot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dir.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ips" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="telegrambot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ips.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="search_file" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="telegrambot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/search_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server_bot" type="PythonConfigurationType" factoryName="Python">
+      <module name="telegrambot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server_bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="telegrambot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.bor_server" />
+      <item itemvalue="Python.bot" />
+      <item itemvalue="Python.call_script" />
+      <item itemvalue="Python.client" />
+      <item itemvalue="Python.dir" />
+      <item itemvalue="Python.ips" />
+      <item itemvalue="Python.search_file" />
+      <item itemvalue="Python.server_bot" />
+      <item itemvalue="Python.temp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ips" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4eae7c1d-0759-4d52-836a-98dd4011ed2b" name="Default Changelist" comment="" />
+      <created>1588156065984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588156065984</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588445727115">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.688/1920.0.1280.689@0.0.1280.688" timestamp="1588367435118" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.688@0.0.1280.688" timestamp="1588445727115" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1588446036825">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.688/1920.0.1280.689@0.0.1280.688" timestamp="1588367432091" />
+    <state x="2341" y="99" key="FileChooserDialogImpl/0.0.1280.688/1920.0.1280.689@1920.0.1280.689" timestamp="1588420501981" />
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.688@0.0.1280.688" timestamp="1588446036825" />
+    <state width="1259" height="120" key="GridCell.Tab.0.bottom" timestamp="1588509908636">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1259" height="120" key="GridCell.Tab.0.bottom/0.0.1280.688/1920.0.1280.689@0.0.1280.688" timestamp="1588509908636" />
+    <state width="1259" height="120" key="GridCell.Tab.0.bottom/0.0.1280.688/1920.0.1280.689@1920.0.1280.689" timestamp="1588506899386" />
+    <state width="1259" height="304" key="GridCell.Tab.0.bottom/0.0.1280.688@0.0.1280.688" timestamp="1588448020309" />
+    <state width="1259" height="120" key="GridCell.Tab.0.center" timestamp="1588509908636">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1259" height="120" key="GridCell.Tab.0.center/0.0.1280.688/1920.0.1280.689@0.0.1280.688" timestamp="1588509908636" />
+    <state width="1259" height="120" key="GridCell.Tab.0.center/0.0.1280.688/1920.0.1280.689@1920.0.1280.689" timestamp="1588506899386" />
+    <state width="1259" height="304" key="GridCell.Tab.0.center/0.0.1280.688@0.0.1280.688" timestamp="1588448020308" />
+    <state width="1259" height="120" key="GridCell.Tab.0.left" timestamp="1588509908636">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1259" height="120" key="GridCell.Tab.0.left/0.0.1280.688/1920.0.1280.689@0.0.1280.688" timestamp="1588509908636" />
+    <state width="1259" height="120" key="GridCell.Tab.0.left/0.0.1280.688/1920.0.1280.689@1920.0.1280.689" timestamp="1588506899386" />
+    <state width="1259" height="304" key="GridCell.Tab.0.left/0.0.1280.688@0.0.1280.688" timestamp="1588448020308" />
+    <state width="1259" height="120" key="GridCell.Tab.0.right" timestamp="1588509908636">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1259" height="120" key="GridCell.Tab.0.right/0.0.1280.688/1920.0.1280.689@0.0.1280.688" timestamp="1588509908636" />
+    <state width="1259" height="120" key="GridCell.Tab.0.right/0.0.1280.688/1920.0.1280.689@1920.0.1280.689" timestamp="1588506899386" />
+    <state width="1259" height="304" key="GridCell.Tab.0.right/0.0.1280.688@0.0.1280.688" timestamp="1588448020309" />
+    <state width="1259" height="208" key="GridCell.Tab.1.bottom" timestamp="1588448020306">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.1.bottom/0.0.1280.688/1920.0.1280.689@1920.0.1280.689" timestamp="1588446971884" />
+    <state width="1259" height="208" key="GridCell.Tab.1.bottom/0.0.1280.688@0.0.1280.688" timestamp="1588448020306" />
+    <state width="1259" height="208" key="GridCell.Tab.1.center" timestamp="1588448020306">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.1.center/0.0.1280.688/1920.0.1280.689@1920.0.1280.689" timestamp="1588446971884" />
+    <state width="1259" height="208" key="GridCell.Tab.1.center/0.0.1280.688@0.0.1280.688" timestamp="1588448020306" />
+    <state width="1259" height="208" key="GridCell.Tab.1.left" timestamp="1588448020306">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.1.left/0.0.1280.688/1920.0.1280.689@1920.0.1280.689" timestamp="1588446971884" />
+    <state width="1259" height="208" key="GridCell.Tab.1.left/0.0.1280.688@0.0.1280.688" timestamp="1588448020306" />
+    <state width="1259" height="208" key="GridCell.Tab.1.right" timestamp="1588448020306">
+      <screen x="0" y="0" width="1280" height="688" />
+    </state>
+    <state width="1259" height="208" key="GridCell.Tab.1.right/0.0.1280.688/1920.0.1280.689@1920.0.1280.689" timestamp="1588446971884" />
+    <state width="1259" height="208" key="GridCell.Tab.1.right/0.0.1280.688@0.0.1280.688" timestamp="1588448020306" />
+    <state x="2062" y="0" key="SettingsEditor" timestamp="1588504939911">
+      <screen x="1920" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.688/1920.0.1280.689@0.0.1280.688" timestamp="1588158140240" />
+    <state x="2062" y="0" key="SettingsEditor/0.0.1280.688/1920.0.1280.689@1920.0.1280.689" timestamp="1588504939911" />
+    <state x="2133" y="81" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1588446898574">
+      <screen x="1920" y="0" width="1280" height="689" />
+    </state>
+    <state x="2133" y="81" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.688/1920.0.1280.689@1920.0.1280.689" timestamp="1588446898574" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="python-exception">
+          <properties notifyOnlyOnFirst="true" notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+            <option name="notifyOnlyOnFirst" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
