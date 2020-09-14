@@ -11,7 +11,7 @@ f = open("C://Users//tussh//PycharmProjects//telegrambot//cred.txt", 'r')
 bot_token2 = f.readline()
 f.close()
 
-# bot_token2 = "1294296291:AAGvyWUjmh3xLe1zvZorrms5sv_Atv5DpeE"
+
 
 bot = telebot.TeleBot(token=bot_token2)
 
